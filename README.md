@@ -41,4 +41,4 @@ THEN that will be shown on the page, and added to their transaction history when
 http://placeholder.com/
 
 ## Application Screenshot
-![Alt text](file:///Users/cynthia/Desktop/Screen%20Shot%202020-05-08%20at%2012.26.37%20AM.png).
+![Alt text](./app-ScreenShot.png)
